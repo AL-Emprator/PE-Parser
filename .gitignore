@@ -1,0 +1,14 @@
+# Visual Studio: lokale Einstellungen
+.vs/
+
+# Build-Ausgaben
+x64/
+x86/
+Debug/
+Release/
+**/Debug/
+**/Release/
+*.obj
+*.pdb
+*.ilk
+*.exe
